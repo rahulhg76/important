@@ -1,0 +1,3 @@
+3)  git commit -m "Initial commit: Add your_file_name.txt"
+6)  git merge --no-ff -m "custom commit message for the merge" feature-branch
+10) git log --author="rahul" --since="2023-1-27" --until="2024-2-15"
